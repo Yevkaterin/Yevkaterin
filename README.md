@@ -1,4 +1,4 @@
-<center>🎃👻🍬🦇💀🧡</center>
+🎃👻🍬🦇💀🧡
 
 - 👋 Hi there! I’m @Yevkaterin - an Certified Ethical Hacker in training with AWS Cloud Computing skills. (CompTIA Security +, Google IT Support Professional, AWS Cloud Practitioner)
 - 👀 I’m interested in Cybersecurity, Cloud and Data Forensics. ⛅
